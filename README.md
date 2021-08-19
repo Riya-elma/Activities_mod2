@@ -1,6 +1,6 @@
 # Activities_mod2
 
-Who : “  “ mainly targets people who would like to learn more about basic electrical components and parameters , study and apply basic formulas and also to simplify tough electrical calculations.
+Who : The application mainly targets people who would like to learn more about basic electrical components and parameters , study and apply basic formulas and also to simplify tough electrical calculations.
 
 What : The main Objectives of the project is to
 1.	Develop an application where the user can select any topic of choice from the manual and use it.
